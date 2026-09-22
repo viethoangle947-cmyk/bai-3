@@ -144,7 +144,7 @@ nav {
     padding-left: 20px;
     font-size: 25px;
     letter-spacing: 9px;
-    text-transform: capitalize;
+
 }
 
 .center ul {
@@ -180,7 +180,7 @@ nav {
     margin-top: 7px !important;
 }
 
-.information h2 {
+.information h2  {
     text-transform: uppercase !important;
     letter-spacing: 8px !important;
     margin-bottom: 12px !important;
